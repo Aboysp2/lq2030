@@ -1,0 +1,22 @@
+{
+  "name": "لا باركوه للقرآن الكريم",
+  "short_name": "لا باركوه",
+  "description": "استمع واحفظ تلاوات القرآن الكريم للعمل بدون إنترنت - صدقة جارية",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a5e3a",
+  "theme_color": "#1a5e3a",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "lifestyle", "music"],
+  "prefer_related_applications": false
+}
